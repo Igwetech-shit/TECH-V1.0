@@ -31,7 +31,7 @@
 
 ### SERVER 1 
  
-<a href="https://session-id-igwe-tech-v1.onrender.com"><img src="https://img.shields.io/badge/SESSION_ID-blue" alt="Click Here to Get Pair-Code" width="110"></a>   
+<a href="https://session-id-igwe-tech-test2.onrender.com"><img src="https://img.shields.io/badge/SESSION_ID-blue" alt="Click Here to Get Pair-Code" width="110"></a>   
 
 ### SERVER 2 
 ### GET SESSION ID HERE ( Replit) 
